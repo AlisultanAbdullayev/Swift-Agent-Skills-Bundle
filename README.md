@@ -50,6 +50,6 @@ Symlinks from the upstream repos were resolved into real files and plugin-packag
 
 ## Licenses & attribution
 
-- **This repository's own work** (README, structure, index) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): free to share and adapt with attribution, **non-commercial use only**. See `LICENSE`.
-- **The skills themselves** belong to their original authors and keep their own licenses (almost all MIT) in each skill folder. The non-commercial restriction above does not apply to them.
+- **This repository's own work** (README, structure, index) is licensed under the [MIT License](LICENSE).
+- **The skills themselves** belong to their original authors and keep their own licenses (almost all MIT) in each skill folder.
 - Being listed in Swift-Agent-Skills is not an endorsement — read a skill before installing it. See the [safety note](https://github.com/twostraws/Swift-Agent-Skills#%EF%B8%8F-important-safety-note-%EF%B8%8F).
